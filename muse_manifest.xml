@@ -1,0 +1,24 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="garfielf.cf" resolutions="1x" timestamp="1505295742411">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="45104964" ref="index"/>
+    <file name="seb.css" crc="3934303600" ref="seb"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:seb"/>
+    <file name="museutils.js" crc="17924269" ref="index:seb"/>
+    <file name="whatinput.js" crc="86476730" ref="index:seb"/>
+    <file name="museconfig.js" crc="278381782" ref="index:seb"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:seb"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:seb"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:seb"/>
+    <file name="require.js" crc="3861931657" ref="index:seb"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 2048x1536-crop-u590.jpg" crc="144633320" seo="true" ref="seb">
+      <caption webpage="seb" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="453709773" seo="true" mt="1505295535000" redirect="true"/>
+  <file name="seb.html" crc="4100595206" seo="true" mt="1505295509154" redirect="true"/>
+</manifest>
