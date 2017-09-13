@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hankpns.cf" resolutions="1x" timestamp="1505309995017">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hankpns.cf" resolutions="1x" timestamp="1505311056481">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4047644189" ref="index:untitled-2:untitled-3:untitled-4"/>
     <file name="index.css" crc="121301703" ref="index"/>
     <file name="untitled-2.css" crc="121301703" ref="untitled-2"/>
     <file name="untitled-3.css" crc="121301703" ref="untitled-3"/>
-    <file name="untitled-4.css" crc="121301703" ref="untitled-4"/>
+    <file name="untitled-4.css" crc="4027760915" ref="untitled-4"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:untitled-3:untitled-4"/>
@@ -19,15 +19,21 @@
     <file name="require.js" crc="3861931657" ref="index:untitled-2:untitled-3:untitled-4"/>
   </folder>
   <folder name="images">
-    <file name="pexels-photo-296884.jpg" crc="153477256" ref="index:untitled-2:untitled-3:untitled-4">
+    <file name="pexels-photo-296884.jpg" crc="153477256" ref="index:untitled-2:untitled-3">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="untitled-2" alt=""/>
     </file>
+    <file name="untitled-2-favicon.ico" crc="244736133" ref="untitled-2"/>
+    <file name="untitled-3-favicon.ico" crc="244736133" ref="untitled-3"/>
+    <file name="untitled-4-favicon.ico" crc="244736133" ref="untitled-4"/>
+    <file name="pexels-photo-296884640x503.jpg" crc="3826089918" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3767422334" seo="true" mt="1505309838793" redirect="true"/>
-  <file name="untitled-2.html" crc="3930403457" seo="true" mt="1505309838793" redirect="true"/>
-  <file name="untitled-3.html" crc="3939846050" seo="true" mt="1505309838793" redirect="true"/>
-  <file name="untitled-4.html" crc="517428910" seo="true" mt="1505309838793" redirect="true"/>
+  <file name="untitled-2.html" crc="509331906" seo="true" mt="1505311008797" redirect="true"/>
+  <file name="untitled-3.html" crc="356850716" seo="true" mt="1505311023772" redirect="true"/>
+  <file name="untitled-4.html" crc="533800864" seo="true" mt="1505311034312" redirect="true"/>
 </manifest>
